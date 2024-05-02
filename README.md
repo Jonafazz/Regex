@@ -1,2 +1,2 @@
-# idk-how-to-name
-regex, cookie
+# Regex
+regex dhe nje mini-projekt me emails
